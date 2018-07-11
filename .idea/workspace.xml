@@ -167,12 +167,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531336074373</updated>
-      <workItem from="1531336080952" duration="1725000" />
+      <workItem from="1531336080952" duration="2151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1725000" />
+    <option name="totallyTimeSpent" value="2151000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
@@ -189,10 +189,10 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.4148607" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.4148607" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5190476" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.5190476" />
       <window_info id="Web" side_tool="true" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
